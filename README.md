@@ -6,7 +6,7 @@
 🚀 Venha acompanhar o meu desenvolvimento e vamos crescer juntos!
 #
 <img src="src/Fundostatuss.png"></img><br><br>
-<div>
+<div widht="40%">
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only"
@@ -18,7 +18,7 @@
       />
 </div>
 
-      #
+      
 <!---
 Vinizinnn/Vinizinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
