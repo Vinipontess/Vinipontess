@@ -7,7 +7,10 @@
 #
 <img src="src/Fundostatus.png"></img><br><br>
 [![Anurag's GitHub stats-](https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+      <img
+        align="right"
+        src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak"
+      />
 
 <!---
 Vinizinnn/Vinizinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
