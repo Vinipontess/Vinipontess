@@ -6,7 +6,11 @@
 🚀 Venha acompanhar o meu desenvolvimento e vamos crescer juntos!
 #
 <img src="src/Fundostatuss.png"></img><br><br>
-[![Anurag's GitHub stats-](https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only"
+        alt="GitHub Streak"
+      />
       <img
         align="right"
         src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak"
@@ -15,4 +19,5 @@
 <!---
 Vinizinnn/Vinizinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only
 --->
