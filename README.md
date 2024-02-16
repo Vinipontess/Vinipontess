@@ -5,7 +5,7 @@
 💼 Busco oportunidades nesse vasto mercado de trabalho, onde poderei aplicar e aprimorar minhas habilidades, bem como aprender continuamente com novos desafios e tecnologias. Estou animado para fazer parte de equipes colaborativas e contribuir para o desenvolvimento de projetos novos. <br><br>
 🚀 Venha acompanhar o meu desenvolvimento e vamos crescer juntos!
 #
-<img src="src/Fundostatus.png"></img><br><br>
+<img src="src/Fundostatuss.png"></img><br><br>
 [![Anurag's GitHub stats-](https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
       <img
         align="right"
