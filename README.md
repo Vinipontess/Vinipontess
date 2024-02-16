@@ -7,18 +7,21 @@
 #
 <img src="src/Fundostatuss.png"></img><br><br>
       <img
+        width="45%"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only"
         alt="GitHub Streak">
       </img>
             <img
+        width="47%"
         align="right"
         src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak">
             </img>
 
-      
 <!---
 Vinizinnn/Vinizinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only
+
+
 --->
