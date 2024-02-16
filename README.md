@@ -8,13 +8,13 @@
 <img src="src/Fundostatuss.png"></img><br><br>
 <div>
       <img
-        width="48%"
+        width="45%"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only"
         alt="GitHub Streak"
       />
       <img
-        width="48%"
+        width="45%"
         align="right"
         src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak"
       />
