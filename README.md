@@ -17,7 +17,7 @@
         align="right"
         src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak">
             </img>
-#  ㅤ
+#  ㅤㅤ
 <img src="src/Fundotec.png"></img>
 
 
