@@ -7,13 +7,13 @@
 #
 <img src="src/Fundostatuss.png"></img><br><br>
       <img
-        width="46%"
+        width="43%"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only"
         alt="GitHub Streak">
       </img>
             <img
-        width="47%"
+        width="44%"
         align="right"
         src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak">
             </img>
