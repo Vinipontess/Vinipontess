@@ -15,7 +15,7 @@
         alt="Github stats"
       />
       <img 
-        src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,figma,cs,php,java,mysql,nodejs,vscode,visualstudio,discord,linkedin,github,git,wordpress&perline=8 "
+        src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,figma,cs,php,java,mysql,vscode,visualstudio,discord,linkedin,github,git,wordpress&perline=8 "
         alt="Github stats"
       /><br><br><br>
 
