@@ -6,17 +6,16 @@
 🚀 Venha acompanhar o meu desenvolvimento e vamos crescer juntos!
 #
 <img src="src/Fundostatuss.png"></img><br><br>
+<div>
       <img
-        width="46%"
-        align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only"
         alt="GitHub Streak">
       </img>
             <img
-        width="47%"
-        align="right"
         src="https://streak-stats.demolab.com?user=Vinipontess&theme=dark&hide_border=" alt="GitHub Streak">
             </img>
+</div>
+
 #  ㅤㅤㅤ
 <img src="src/Fundotec.png"></img>
 
