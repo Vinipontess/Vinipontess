@@ -41,5 +41,5 @@ Vinizinnn/Vinizinnn is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 https://github-readme-stats.vercel.app/api?username=Vinipontess&show_icons=true&theme=dark#gh-dark-mode-only
 
-nodejs,vscode,visualstudio,discord,linkedin,github,git,wordpress
+nodejs,vscode,visualstudio,discord,linkedin,github,git,wordpress.
 --->
