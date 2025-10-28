@@ -1,7 +1,7 @@
 <img src="src/Fundo.png"></img>
 # 🗨️ Sobre mim
 
-👋 Olá, eu sou o Vinícius, tenho 19 anos e amo programação! Atualmente sou estudante de análise e desenvolvimento de sistemas no IFSP em Cubatão e estou em constante evolução. <br><br>
+👋 Olá, eu sou o Vinícius, tenho 20 anos e amo programação! Atualmente sou estudante de análise e desenvolvimento de sistemas no IFSP em Cubatão e estou em constante evolução. <br><br>
 💼 Busco oportunidades nesse vasto mercado de trabalho, onde poderei aplicar e aprimorar minhas habilidades, bem como aprender continuamente com novos desafios e tecnologias. Estou animado para fazer parte de equipes colaborativas e contribuir para o desenvolvimento de projetos novos. <br><br>
 🚀 Venha acompanhar o meu desenvolvimento e vamos crescer juntos! <br><br>
 📖 No presente estou me aprofundando em Java e no framework Angular (TypeScript), as outras linguagens que eu já utilizei e estou estudando estão abaixo
